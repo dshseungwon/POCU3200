@@ -18,3 +18,18 @@ Todo checklist of the POCU COMP3200 lecture.
 - [ ] static 키워드
 - [ ] 예외(Exceptiton)
 - [ ] 표준 템플릿 라이브러리(STL, Standard Template Library) 1
+- [ ] 표준 템플릿 라이브러리 2
+- [ ] 표준 템플릿 라이브러리 3
+- [ ] 템플릿(Template) 프로그래밍
+- [ ] STL 알고리듬(Algorithm)
+- [ ] 새로운 키워드 (C++11~)
+- [ ] 새로운 자료형
+- [ ] 새로 추가된 STL
+- [ ] 스마트(Smart) 포인터
+- [ ] 이동 생성자 및 이동 대입 연산자
+- [ ] constexpr
+- [ ] 람다 식(Lambda Expression)
+- [ ] 가변 인자(Variadic) 템플릿
+- [ ] 파일시스템(Filesystem), 모듈(Module) 시스템
+- [ ] 쓰레딩(Threading) 라이브러리
+- [ ] C++ 강의를 마무리 지으며
