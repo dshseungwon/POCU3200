@@ -14,16 +14,18 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 개체지향 프로그래밍 2
 - [x] 개체지향 프로그래밍 3
 - [x] 캐스팅(형변환, Casting)
-- [ ] 인라인 함수(Inline Functions)
+- [x] 인라인 함수(Inline Functions)
+- [ ] static 키워드
 
 > 2020-09-01
-- [ ] static 키워드
 - [ ] 예외(Exceptiton)
 - [ ] 표준 템플릿 라이브러리(STL, Standard Template Library) 1
 - [ ] 표준 템플릿 라이브러리 2
 - [ ] 표준 템플릿 라이브러리 3
 - [ ] 템플릿(Template) 프로그래밍
 - [ ] STL 알고리듬(Algorithm)
+
+> 2020-09-02
 - [ ] 새로운 키워드 (C++11~)
 - [ ] 새로운 자료형
 - [ ] 새로 추가된 STL
