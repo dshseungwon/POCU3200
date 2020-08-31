@@ -9,7 +9,7 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 문자열(string)
 - [x] 파일 입출력(I/O)
 - [x] 개체지향 프로그래밍 (Object-Oriented Programming) 1
-- [ ] 개체지향 프로그래밍 2
+- [x] 개체지향 프로그래밍 2
 - [ ] 개체지향 프로그래밍 3
 
 > 2020-08-31
