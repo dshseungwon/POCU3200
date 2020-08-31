@@ -12,8 +12,8 @@ Todo checklist of the POCU COMP3200 lecture.
 > 2020-08-31
 - [x] 개체지향 프로그래밍 (Object-Oriented Programming) 1
 - [x] 개체지향 프로그래밍 2
-- [ ] 개체지향 프로그래밍 3
-- [ ] 캐스팅(형변환, Casting)
+- [x] 개체지향 프로그래밍 3
+- [x] 캐스팅(형변환, Casting)
 - [ ] 인라인 함수(Inline Functions)
 
 > 2020-09-01
