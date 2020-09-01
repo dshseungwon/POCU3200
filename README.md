@@ -15,7 +15,7 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 개체지향 프로그래밍 3
 - [x] 캐스팅(형변환, Casting)
 - [x] 인라인 함수(Inline Functions)
-- [ ] static 키워드
+- [x] static 키워드
 
 > 2020-09-01
 - [ ] 예외(Exceptiton)
