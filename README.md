@@ -18,7 +18,7 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] static 키워드
 
 > 2020-09-01
-- [ ] 예외(Exceptiton)
+- [x] 예외(Exceptiton)
 - [ ] 표준 템플릿 라이브러리(STL, Standard Template Library) 1
 - [ ] 표준 템플릿 라이브러리 2
 - [ ] 표준 템플릿 라이브러리 3
