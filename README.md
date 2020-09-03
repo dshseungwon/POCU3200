@@ -27,7 +27,7 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 새로운 키워드 (C++11~)
 
 > 2020-09-04
-- [ ] 새로운 자료형
+- [x] 새로운 자료형
 - [ ] 새로 추가된 STL
 - [ ] 스마트(Smart) 포인터
 - [ ] 이동 생성자 및 이동 대입 연산자
