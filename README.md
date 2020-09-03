@@ -17,20 +17,22 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 인라인 함수(Inline Functions)
 - [x] static 키워드
 
-> 2020-09-01
+> 2020-09-01 / 2020-09-02 / 2020-09-03
 - [x] 예외(Exceptiton)
 - [x] 표준 템플릿 라이브러리(STL, Standard Template Library) 1
 - [x] 표준 템플릿 라이브러리 2
 - [x] 표준 템플릿 라이브러리 3
 - [x] 템플릿(Template) 프로그래밍
 - [x] STL 알고리듬(Algorithm)
-
-> 2020-09-02
 - [ ] 새로운 키워드 (C++11~)
+
+> 2020-09-04
 - [ ] 새로운 자료형
 - [ ] 새로 추가된 STL
 - [ ] 스마트(Smart) 포인터
 - [ ] 이동 생성자 및 이동 대입 연산자
+
+> 2020-09-05
 - [ ] constexpr
 - [ ] 람다 식(Lambda Expression)
 - [ ] 가변 인자(Variadic) 템플릿
