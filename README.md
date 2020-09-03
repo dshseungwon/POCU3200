@@ -24,7 +24,7 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 표준 템플릿 라이브러리 3
 - [x] 템플릿(Template) 프로그래밍
 - [x] STL 알고리듬(Algorithm)
-- [ ] 새로운 키워드 (C++11~)
+- [x] 새로운 키워드 (C++11~)
 
 > 2020-09-04
 - [ ] 새로운 자료형
