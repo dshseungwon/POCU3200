@@ -21,7 +21,7 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 예외(Exceptiton)
 - [x] 표준 템플릿 라이브러리(STL, Standard Template Library) 1
 - [x] 표준 템플릿 라이브러리 2
-- [ ] 표준 템플릿 라이브러리 3
+- [x] 표준 템플릿 라이브러리 3
 - [ ] 템플릿(Template) 프로그래밍
 - [ ] STL 알고리듬(Algorithm)
 
