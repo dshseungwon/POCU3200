@@ -35,8 +35,8 @@ Todo checklist of the POCU COMP3200 lecture.
 
 > 2020-09-05
 - [x] 람다 식(Lambda Expression)
-- [ ] 가변 인자(Variadic) 템플릿
-- [ ] 파일시스템(Filesystem), 모듈(Module) 시스템
+- [x] 가변 인자(Variadic) 템플릿
+- [x] 파일시스템(Filesystem), 모듈(Module) 시스템
 
 > 2020-09-06
 - [ ] 쓰레딩(Threading) 라이브러리
