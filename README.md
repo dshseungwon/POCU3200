@@ -29,13 +29,15 @@ Todo checklist of the POCU COMP3200 lecture.
 > 2020-09-04
 - [x] 새로운 자료형
 - [x] 새로 추가된 STL
-- [ ] 스마트(Smart) 포인터
+- [x] 스마트(Smart) 포인터
 - [x] 이동 생성자 및 이동 대입 연산자
-- [ ] constexpr
+- [x] constexpr
 
 > 2020-09-05
-- [ ] 람다 식(Lambda Expression)
+- [x] 람다 식(Lambda Expression)
 - [ ] 가변 인자(Variadic) 템플릿
 - [ ] 파일시스템(Filesystem), 모듈(Module) 시스템
+
+> 2020-09-06
 - [ ] 쓰레딩(Threading) 라이브러리
 - [ ] C++ 강의를 마무리 지으며
