@@ -39,5 +39,5 @@ Todo checklist of the POCU COMP3200 lecture.
 - [x] 파일시스템(Filesystem), 모듈(Module) 시스템
 
 > 2020-09-06
-- [ ] 쓰레딩(Threading) 라이브러리
-- [ ] C++ 강의를 마무리 지으며
+- [x] 쓰레딩(Threading) 라이브러리
+- [x] C++ 강의를 마무리 지으며
